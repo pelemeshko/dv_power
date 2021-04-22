@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=NetR6_2 Pin=X1-9
+Removed Pin From Net: NetName=NetR4_2 Pin=X1-10
+Removed Pin From Net: NetName=NetR13_2 Pin=X1-11
+Removed Pin From Net: NetName=NetR11_2 Pin=X1-12
+Removed Pin From Net: NetName=NetX1_17 Pin=X1-17
+Removed Pin From Net: NetName=NetX1_17 Pin=X1-18
+Removed Pin From Net: NetName=NetX1_19 Pin=X1-19
+Removed Pin From Net: NetName=NetX1_19 Pin=X1-20
+Added Component: Designator=FU2(VP1-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docviewer.yandex.ru/view/20572601/?page=1&*=oYyHA%2BCwzeyRvrmOJV6%2ByaBlbHJ7InVybCI6Imh0dHBzOi8vZWwtcmEucnUvdXBsb2FkL2libG9jay8wMTYvdnN0YXZrYS1wbGF2a2EtdnAxXzItX2VsZWt0cm9uaWthX3JhXy5wZGYiLCJ0aXRsZSI6InZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmIiwibm9pZnJhbWUiOnRydWUsInVpZCI6IjIwNTcyNjAxIiwidHMiOjE1OTI0NzI0NTM1MTUsInl1IjoiODg5MDYxMzMxNTQzMzg3MTIxIiwic2VycFBhcmFtcyI6Imxhbmc9cnUmdG09MTU5MjQ3MjQyOCZ0bGQ9cnUmbmFtZT12c3RhdmthLXBsYXZrYS12cDFfMi1fZWxla3Ryb25pa2FfcmFfLnBkZiZ0ZXh0PSVEMCVCMiVEMCVCRjEtMiZ1cmw9aHR0cHMlM0EvL2VsLXJhLnJ1L3VwbG9hZC9pYmxvY2svMDE2L3ZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmJmxyPTY1Jm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yZWMwNDRiZDQyMGRlMjRmMjI1MThkNTc4YjZlMTlkYiZrZXlubz0wIn0%3D&lang=ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Предохранитель плавкий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ВП1-2 "ВП""; VariantName = "[No Variations]"
+Added Component: Designator=FU3(VP1-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docviewer.yandex.ru/view/20572601/?page=1&*=oYyHA%2BCwzeyRvrmOJV6%2ByaBlbHJ7InVybCI6Imh0dHBzOi8vZWwtcmEucnUvdXBsb2FkL2libG9jay8wMTYvdnN0YXZrYS1wbGF2a2EtdnAxXzItX2VsZWt0cm9uaWthX3JhXy5wZGYiLCJ0aXRsZSI6InZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmIiwibm9pZnJhbWUiOnRydWUsInVpZCI6IjIwNTcyNjAxIiwidHMiOjE1OTI0NzI0NTM1MTUsInl1IjoiODg5MDYxMzMxNTQzMzg3MTIxIiwic2VycFBhcmFtcyI6Imxhbmc9cnUmdG09MTU5MjQ3MjQyOCZ0bGQ9cnUmbmFtZT12c3RhdmthLXBsYXZrYS12cDFfMi1fZWxla3Ryb25pa2FfcmFfLnBkZiZ0ZXh0PSVEMCVCMiVEMCVCRjEtMiZ1cmw9aHR0cHMlM0EvL2VsLXJhLnJ1L3VwbG9hZC9pYmxvY2svMDE2L3ZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmJmxyPTY1Jm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yZWMwNDRiZDQyMGRlMjRmMjI1MThkNTc4YjZlMTlkYiZrZXlubz0wIn0%3D&lang=ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Предохранитель плавкий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ВП1-2 "ВП""; VariantName = "[No Variations]"
+Added Component: Designator=U3(MSOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=U6(MSOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=X?(MDM-31)
+Added Pin To Net: NetName=NetFU1_1 Pin=FU2-1
+Added Pin To Net: NetName=NetFU1_2 Pin=FU2-2
+Added Pin To Net: NetName=NetFU3_1 Pin=FU3-1
+Added Pin To Net: NetName=NetFU3_2 Pin=FU3-2
+Added Pin To Net: NetName=NetFU1_2 Pin=U3-1
+Added Pin To Net: NetName=Alpha_main_ch Pin=U3-2
+Added Pin To Net: NetName=GND_main_ch Pin=U3-3
+Added Pin To Net: NetName=NetR7_1 Pin=U3-5
+Added Pin To Net: NetName=Alpha_main_ch Pin=U3-6
+Added Pin To Net: NetName=+27V_A_main_ch Pin=U3-8
+Added Pin To Net: NetName=NetFU3_2 Pin=U6-1
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U6-2
+Added Pin To Net: NetName=GND_main_ch Pin=U6-3
+Added Pin To Net: NetName=NetR14_1 Pin=U6-5
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U6-6
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=U6-8
+Added Pin To Net: NetName=NetR4_2 Pin=X1-17
+Added Pin To Net: NetName=NetR11_2 Pin=X1-18
+Added Pin To Net: NetName=NetR6_2 Pin=X1-19
+Added Pin To Net: NetName=NetR13_2 Pin=X1-20
+Added Pin To Net: NetName=NetFU1_1 Pin=X?-2
+Added Pin To Net: NetName=NetFU3_1 Pin=X?-4
+Added Pin To Net: NetName=NetX1_15 Pin=X?-6
+Added Pin To Net: NetName=GND_main_ch Pin=X?-17
+Added Pin To Net: NetName=NetX1_19 Pin=X?-18
+Added Pin To Net: NetName=GND_main_ch Pin=X?-19
+Added Pin To Net: NetName=NetX1_19 Pin=X?-20
+Added Pin To Net: NetName=NetX1_17 Pin=X?-21
+Added Pin To Net: NetName=NetX1_13 Pin=X?-22
+Added Pin To Net: NetName=NetX1_17 Pin=X?-27
+Change Net Name : Old Net Name=NetX1_17 New Net Name=NetX?_21
+Change Net Name : Old Net Name=NetX1_19 New Net Name=NetX?_18
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Added Pin To Net: NetName=GND_reserve_ch Pin=C10-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C10-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=R10-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=R10-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=R12-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=R13-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-5
+Added Pin To Net: NetName=GND_reserve_ch Pin=U5-3
+Added Pin To Net: NetName=GND_reserve_ch Pin=U5-3
+Added Pin To Net: NetName=GND_reserve_ch Pin=U5-7
+Added Pin To Net: NetName=GND_reserve_ch Pin=U5-7
+Added Pin To Net: NetName=GND_reserve_ch Pin=U6-3
+Added Pin To Net: NetName=GND_reserve_ch Pin=VT2-1
+Added Net: Name=GND_reserve_ch
+Added Pin To Net: NetName=NetX1_9 Pin=X1-9
+Added Pin To Net: NetName=NetX1_9 Pin=X1-10
+Added Pin To Net: NetName=NetX1_9 Pin=X?-23
+Added Net: Name=NetX1_9
+Added Pin To Net: NetName=NetX1_11 Pin=X1-11
+Added Pin To Net: NetName=NetX1_11 Pin=X1-12
+Added Pin To Net: NetName=NetX1_11 Pin=X?-7
+Added Net: Name=NetX1_11
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Net: Name=NetX?_1
+Added Pin To Net: NetName=NetX?_3 Pin=X?-3
+Added Net: Name=NetX?_3
+Added Member To Class: ClassName=main_ch Member=Component FU2 VP1-2
+Added Member To Class: ClassName=reserve_ch Member=Component FU3 (FU1) VP1-2
+Added Member To Class: ClassName=main_ch Member=Component U3 AD8212
+Added Member To Class: ClassName=reserve_ch Member=Component U6 (U3) AD8212
+Added Member To Class: ClassName=dv_power Member=Component X? Header 31
+Added Room: Name=dv_power

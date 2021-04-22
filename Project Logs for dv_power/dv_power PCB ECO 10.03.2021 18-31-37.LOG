@@ -1,0 +1,58 @@
+Added Component: Designator=U3(MSOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=U6(MSOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,005"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_main_ch Pin=C1-1
+Added Pin To Net: NetName=GND_main_ch Pin=C2-2
+Added Pin To Net: NetName=GND_main_ch Pin=C3-1
+Added Pin To Net: NetName=GND_main_ch Pin=C4-2
+Added Pin To Net: NetName=GND_main_ch Pin=C5-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C6-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C7-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=C8-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C9-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=C10-1
+Added Pin To Net: NetName=GND_main_ch Pin=R3-1
+Added Pin To Net: NetName=GND_main_ch Pin=R5-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=R11-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=R13-1
+Added Pin To Net: NetName=GND_main_ch Pin=U1-2
+Added Pin To Net: NetName=GND_main_ch Pin=U1-4
+Added Pin To Net: NetName=GND_main_ch Pin=U1-5
+Added Pin To Net: NetName=GND_main_ch Pin=U2-3
+Added Pin To Net: NetName=GND_main_ch Pin=U2-3
+Added Pin To Net: NetName=NetFU1_2 Pin=U3-1
+Added Pin To Net: NetName=Alpha_main_ch Pin=U3-2
+Added Pin To Net: NetName=GND_main_ch Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetR7_1 Pin=U3-5
+Added Pin To Net: NetName=Alpha_main_ch Pin=U3-6
+Added Pin To Net: NetName=+27V_A_main_ch Pin=U3-8
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-4
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-5
+Added Pin To Net: NetName=GND_reserve_ch Pin=U5-3
+Added Pin To Net: NetName=GND_reserve_ch Pin=U5-3
+Added Pin To Net: NetName=NetFU2_2 Pin=U6-1
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U6-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=NetR15_1 Pin=U6-5
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U6-6
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=U6-8
+Added Pin To Net: NetName=GND Pin=VD1-11
+Added Pin To Net: NetName=GND Pin=VD1-17
+Added Pin To Net: NetName=GND Pin=VD2-11
+Added Pin To Net: NetName=GND Pin=VD2-17
+Added Pin To Net: NetName=GND_main_ch Pin=VT1-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=VT2-1
+Added Member To Class: ClassName=main_ch Member=Component U3 AD8212
+Added Member To Class: ClassName=reserve_ch Member=Component U6 (U3) AD8212

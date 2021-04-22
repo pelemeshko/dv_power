@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=X1-2
+Removed Pin From Net: NetName=NetC8_2 Pin=X1-6
+Removed Pin From Net: NetName=NetX1_9 Pin=X1-9
+Removed Pin From Net: NetName=NetX1_9 Pin=X1-10
+Removed Pin From Net: NetName=NetX1_11 Pin=X1-11
+Removed Pin From Net: NetName=NetX1_11 Pin=X1-12
+Removed Pin From Net: NetName=NetX1_13 Pin=X1-13
+Removed Pin From Net: NetName=NetX1_13 Pin=X1-14
+Removed Pin From Net: NetName=NetX1_15 Pin=X1-15
+Removed Pin From Net: NetName=NetX1_15 Pin=X1-16
+Removed Pin From Net: NetName=NetX1_15 Pin=X2-6
+Removed Pin From Net: NetName=NetX1_11 Pin=X2-7
+Removed Pin From Net: NetName=NetX2_18 Pin=X2-18
+Removed Pin From Net: NetName=NetX2_18 Pin=X2-20
+Removed Pin From Net: NetName=NetX1_13 Pin=X2-22
+Removed Pin From Net: NetName=NetX1_9 Pin=X2-23
+Change Component Comment : Designator=X2 Old Comment=Header 31 New Comment=3401 029 01B 31S FR136, MDM
+Change Component Library : Designator=X2 Old Library=Connector.IntLib New Library=Header 31.SchLib
+Change component parameters: Designator = "X2" ("X2"); Footprint = "MDM-31"; UniqueID = "\QGZEEXAP" ("\QGZEEXAP")
+Change component parameters (AddParameter): Name = "Назначение"; Value = "Header, 31-Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "3401 029 01B 31S FR136, MDM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_main_ch Pin=C1-1
+Added Pin To Net: NetName=GND_main_ch Pin=C2-2
+Added Pin To Net: NetName=GND_main_ch Pin=C3-1
+Added Pin To Net: NetName=GND_main_ch Pin=C4-2
+Added Pin To Net: NetName=GND_main_ch Pin=C5-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C8-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C9-2
+Added Pin To Net: NetName=GND_main_ch Pin=R3-1
+Added Pin To Net: NetName=GND_main_ch Pin=R5-1
+Added Pin To Net: NetName=GND_main_ch Pin=U1-2
+Added Pin To Net: NetName=GND_main_ch Pin=U1-4
+Added Pin To Net: NetName=GND_main_ch Pin=U1-5
+Added Pin To Net: NetName=GND_main_ch Pin=U2-3
+Added Pin To Net: NetName=GND_main_ch Pin=U2-3
+Added Pin To Net: NetName=GND_main_ch Pin=U3-3
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-4
+Added Pin To Net: NetName=GND_main_ch Pin=VT1-1
+Added Pin To Net: NetName=GND_main_ch Pin=X1-3
+Added Pin To Net: NetName=NetX2_18 Pin=X1-16
+Added Pin To Net: NetName=NetX1_15 Pin=X2-5
+Added Pin To Net: NetName=NetX2_18 Pin=X2-6
+Added Pin To Net: NetName=NetX1_13 Pin=X2-8
+Added Pin To Net: NetName=NetX1_11 Pin=X2-17
+Added Pin To Net: NetName=GND_main_ch Pin=X2-18
+Added Pin To Net: NetName=NetX1_9 Pin=X2-19
+Added Pin To Net: NetName=GND_reserve_ch Pin=X2-20
+Change Net Name : Old Net Name=NetX1_9 New Net Name=NetX2_19
+Change Net Name : Old Net Name=NetX1_11 New Net Name=NetX2_17
+Change Net Name : Old Net Name=NetX1_13 New Net Name=NetX2_8
+Change Net Name : Old Net Name=NetX1_15 New Net Name=NetX2_5
+Change Net Name : Old Net Name=NetX2_18 New Net Name=NetX1_16
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=RGB(0, 117, 173)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(149, 107, 107)
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=RGB(0, 117, 173)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(149, 107, 107)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=RGB(80, 80, 80)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(80, 80, 80)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=NetX1_2 Pin=X1-2
+Added Net: Name=NetX1_2
+Added Pin To Net: NetName=NetX1_4 Pin=X1-4
+Added Pin To Net: NetName=NetX1_4 Pin=X1-8
+Added Net: Name=NetX1_4
+Added Pin To Net: NetName=NetX1_6 Pin=X1-6
+Added Net: Name=NetX1_6
+Added Pin To Net: NetName=NetX1_10 Pin=X1-10
+Added Pin To Net: NetName=NetX1_10 Pin=X2-23
+Added Net: Name=NetX1_10
+Added Pin To Net: NetName=NetX1_12 Pin=X1-12
+Added Pin To Net: NetName=NetX1_12 Pin=X2-7
+Added Net: Name=NetX1_12
+Added Pin To Net: NetName=NetX1_14 Pin=X1-14
+Added Pin To Net: NetName=NetX1_14 Pin=X2-22
+Added Net: Name=NetX1_14

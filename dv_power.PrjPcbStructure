@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=dv_power.SchDoc
+Record=SheetSymbol|SourceDocument=dv_power.SchDoc|Designator=main_ch|SchDesignator=main_ch|FileName=dv_power_chanel.SchDoc|SymbolType=Normal|RawFileName=dv_power_chanel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=dv_power.SchDoc|Designator=reserve_ch|SchDesignator=reserve_ch|FileName=dv_power_chanel.SchDoc|SymbolType=Normal|RawFileName=dv_power_chanel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

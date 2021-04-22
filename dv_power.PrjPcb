@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for dv_power
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -144,62 +144,10 @@ DocumentPath=Project Outputs for dv_power\ExportIDF\dv_power.brd
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.REP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
 DocumentPath=Project Outputs for dv_power\ExportSTEP\dv_power.step
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for dv_power\Gerbers\dv_power\dv_power.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for dv_power\BOM\dv_power.xlsx
 DItemRevisionGUID=
 
@@ -258,7 +206,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for dv_power
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

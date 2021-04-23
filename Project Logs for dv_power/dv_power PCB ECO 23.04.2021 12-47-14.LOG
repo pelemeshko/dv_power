@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=-27V[1..2] Member=-27V1
+Removed Member From Class: ClassName=-27V[1..2] Member=-27V2
+Added Pin To Net: NetName=-27V2 Pin=C1-1
+Added Pin To Net: NetName=-27V2 Pin=C2-2
+Added Pin To Net: NetName=-27V2 Pin=FU3-1
+Added Pin To Net: NetName=-27V2 Pin=FU4-1
+Added Pin To Net: NetName=-27V2 Pin=U1-2
+Added Pin To Net: NetName=-27V2 Pin=X1-3
+Added Pin To Net: NetName=-27V2 Pin=X1-4
+Added Pin To Net: NetName=-27V2 Pin=X1-17
+Added Pin To Net: NetName=-27V2 Pin=X1-18
+Change Net Name : Old Net Name=-27V2 New Net Name=+27V2
+Added Member To Class: ClassName=-27V[1..2] Member=Element[1]: +27V
+Added Room: Name=dv_power

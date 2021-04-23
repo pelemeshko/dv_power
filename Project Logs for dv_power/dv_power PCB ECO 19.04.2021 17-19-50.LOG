@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=FU?_main_ch NewDesignator=FU2_main_ch
+Change Component Designator: OldDesignator=FU?_reserve_ch NewDesignator=FU2_reserve_ch
+Change Component Designator: OldDesignator=VD?_main_ch NewDesignator=VD1_main_ch
+Change Component Designator: OldDesignator=VD?_reserve_ch NewDesignator=VD1_reserve_ch
+Added Pin To Net: NetName=GND_main_ch Pin=C1-1
+Added Pin To Net: NetName=GND_main_ch Pin=C2-2
+Added Pin To Net: NetName=GND_main_ch Pin=C3-1
+Added Pin To Net: NetName=GND_main_ch Pin=C4-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=C6-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C7-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=C8-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=C9-2
+Added Pin To Net: NetName=GND_main_ch Pin=R5-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=R13-1
+Added Pin To Net: NetName=GND_main_ch Pin=U1-2
+Added Pin To Net: NetName=GND_main_ch Pin=U1-4
+Added Pin To Net: NetName=GND_main_ch Pin=U1-5
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-2
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-4
+Added Pin To Net: NetName=GND_reserve_ch Pin=U4-5
+Added Pin To Net: NetName=GND_main_ch Pin=VT1-1
+Added Pin To Net: NetName=GND_reserve_ch Pin=VT2-1
+Change Net Name : Old Net Name=NetFU?_main_ch_2 New Net Name=NetFU2_main_ch_2
+Change Net Name : Old Net Name=NetFU?_reserve_ch_2 New Net Name=NetFU2_reserve_ch_2
+Added Room: Name=dv_power

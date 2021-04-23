@@ -1,0 +1,24 @@
+Added Component: Designator=U1(SLH28xx)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.interpoint.com/product_documents/SLH_Space_DC_DC_Converters.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "DC-DC преобразователь"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SLH28xx)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.interpoint.com/product_documents/SLH_Space_DC_DC_Converters.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "DC-DC преобразователь"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=-27V1 Pin=U1-2
+Added Pin To Net: NetName=+5V1 Pin=U1-3
+Added Pin To Net: NetName=GND_dv_power_chanel1 Pin=U1-4
+Added Pin To Net: NetName=GND_dv_power_chanel1 Pin=U1-5
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetC5_2 Pin=U2-1
+Added Pin To Net: NetName=-27V2 Pin=U2-2
+Added Pin To Net: NetName=+5V2 Pin=U2-3
+Added Pin To Net: NetName=GND_dv_power_chanel1 Pin=U2-4
+Added Pin To Net: NetName=GND_dv_power_chanel1 Pin=U2-5
+Added Pin To Net: NetName=NetU2_7 Pin=U2-7
+Added Member To Class: ClassName=dv_power_chanel1 Member=Component U1 SLH28xx
+Added Member To Class: ClassName=dv_power_chanel2 Member=Component U2 (U1) SLH28xx

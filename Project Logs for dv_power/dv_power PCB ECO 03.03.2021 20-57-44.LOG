@@ -1,0 +1,368 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=DGND Pin=R?-1
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-17
+Removed Pin From Net: NetName=GND Pin=VT?-1
+Removed Pin From Net: NetName=NetU?_7 Pin=VT?-3
+Removed Member From Class: ClassName=dv_power Member=C?
+Removed Member From Class: ClassName=dv_power Member=R?
+Removed Member From Class: ClassName=dv_power Member=U?
+Removed Member From Class: ClassName=dv_power Member=VT?
+Added Component: Designator=C1(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SMD_size_B)
+Add component (AddParameter): Name = "Value"; Value = "10мкФх50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Поляризованный SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Поляризованный конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C4(SMD_size_B)
+Add component (AddParameter): Name = "Value"; Value = "10мкФх50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Поляризованный SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Поляризованный конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C5(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0,22мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C6(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C7(SMD_size_B)
+Add component (AddParameter): Name = "Value"; Value = "10мкФх50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Поляризованный SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Поляризованный конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C8(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C9(SMD_size_B)
+Add component (AddParameter): Name = "Value"; Value = "10мкФх50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Поляризованный SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Поляризованный конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C10(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0,22мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=FU1(VP1-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docviewer.yandex.ru/view/20572601/?page=1&*=oYyHA%2BCwzeyRvrmOJV6%2ByaBlbHJ7InVybCI6Imh0dHBzOi8vZWwtcmEucnUvdXBsb2FkL2libG9jay8wMTYvdnN0YXZrYS1wbGF2a2EtdnAxXzItX2VsZWt0cm9uaWthX3JhXy5wZGYiLCJ0aXRsZSI6InZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmIiwibm9pZnJhbWUiOnRydWUsInVpZCI6IjIwNTcyNjAxIiwidHMiOjE1OTI0NzI0NTM1MTUsInl1IjoiODg5MDYxMzMxNTQzMzg3MTIxIiwic2VycFBhcmFtcyI6Imxhbmc9cnUmdG09MTU5MjQ3MjQyOCZ0bGQ9cnUmbmFtZT12c3RhdmthLXBsYXZrYS12cDFfMi1fZWxla3Ryb25pa2FfcmFfLnBkZiZ0ZXh0PSVEMCVCMiVEMCVCRjEtMiZ1cmw9aHR0cHMlM0EvL2VsLXJhLnJ1L3VwbG9hZC9pYmxvY2svMDE2L3ZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmJmxyPTY1Jm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yZWMwNDRiZDQyMGRlMjRmMjI1MThkNTc4YjZlMTlkYiZrZXlubz0wIn0%3D&lang=ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Предохранитель плавкий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ВП1-2 "ВП""; VariantName = "[No Variations]"
+Added Component: Designator=FU2(VP1-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docviewer.yandex.ru/view/20572601/?page=1&*=oYyHA%2BCwzeyRvrmOJV6%2ByaBlbHJ7InVybCI6Imh0dHBzOi8vZWwtcmEucnUvdXBsb2FkL2libG9jay8wMTYvdnN0YXZrYS1wbGF2a2EtdnAxXzItX2VsZWt0cm9uaWthX3JhXy5wZGYiLCJ0aXRsZSI6InZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmIiwibm9pZnJhbWUiOnRydWUsInVpZCI6IjIwNTcyNjAxIiwidHMiOjE1OTI0NzI0NTM1MTUsInl1IjoiODg5MDYxMzMxNTQzMzg3MTIxIiwic2VycFBhcmFtcyI6Imxhbmc9cnUmdG09MTU5MjQ3MjQyOCZ0bGQ9cnUmbmFtZT12c3RhdmthLXBsYXZrYS12cDFfMi1fZWxla3Ryb25pa2FfcmFfLnBkZiZ0ZXh0PSVEMCVCMiVEMCVCRjEtMiZ1cmw9aHR0cHMlM0EvL2VsLXJhLnJ1L3VwbG9hZC9pYmxvY2svMDE2L3ZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmJmxyPTY1Jm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yZWMwNDRiZDQyMGRlMjRmMjI1MThkNTc4YjZlMTlkYiZrZXlubz0wIn0%3D&lang=ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Предохранитель плавкий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ВП1-2 "ВП""; VariantName = "[No Variations]"
+Added Component: Designator=FU3(VP1-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docviewer.yandex.ru/view/20572601/?page=1&*=oYyHA%2BCwzeyRvrmOJV6%2ByaBlbHJ7InVybCI6Imh0dHBzOi8vZWwtcmEucnUvdXBsb2FkL2libG9jay8wMTYvdnN0YXZrYS1wbGF2a2EtdnAxXzItX2VsZWt0cm9uaWthX3JhXy5wZGYiLCJ0aXRsZSI6InZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmIiwibm9pZnJhbWUiOnRydWUsInVpZCI6IjIwNTcyNjAxIiwidHMiOjE1OTI0NzI0NTM1MTUsInl1IjoiODg5MDYxMzMxNTQzMzg3MTIxIiwic2VycFBhcmFtcyI6Imxhbmc9cnUmdG09MTU5MjQ3MjQyOCZ0bGQ9cnUmbmFtZT12c3RhdmthLXBsYXZrYS12cDFfMi1fZWxla3Ryb25pa2FfcmFfLnBkZiZ0ZXh0PSVEMCVCMiVEMCVCRjEtMiZ1cmw9aHR0cHMlM0EvL2VsLXJhLnJ1L3VwbG9hZC9pYmxvY2svMDE2L3ZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmJmxyPTY1Jm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yZWMwNDRiZDQyMGRlMjRmMjI1MThkNTc4YjZlMTlkYiZrZXlubz0wIn0%3D&lang=ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Предохранитель плавкий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ВП1-2 "ВП""; VariantName = "[No Variations]"
+Added Component: Designator=FU4(VP1-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docviewer.yandex.ru/view/20572601/?page=1&*=oYyHA%2BCwzeyRvrmOJV6%2ByaBlbHJ7InVybCI6Imh0dHBzOi8vZWwtcmEucnUvdXBsb2FkL2libG9jay8wMTYvdnN0YXZrYS1wbGF2a2EtdnAxXzItX2VsZWt0cm9uaWthX3JhXy5wZGYiLCJ0aXRsZSI6InZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmIiwibm9pZnJhbWUiOnRydWUsInVpZCI6IjIwNTcyNjAxIiwidHMiOjE1OTI0NzI0NTM1MTUsInl1IjoiODg5MDYxMzMxNTQzMzg3MTIxIiwic2VycFBhcmFtcyI6Imxhbmc9cnUmdG09MTU5MjQ3MjQyOCZ0bGQ9cnUmbmFtZT12c3RhdmthLXBsYXZrYS12cDFfMi1fZWxla3Ryb25pa2FfcmFfLnBkZiZ0ZXh0PSVEMCVCMiVEMCVCRjEtMiZ1cmw9aHR0cHMlM0EvL2VsLXJhLnJ1L3VwbG9hZC9pYmxvY2svMDE2L3ZzdGF2a2EtcGxhdmthLXZwMV8yLV9lbGVrdHJvbmlrYV9yYV8ucGRmJmxyPTY1Jm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yZWMwNDRiZDQyMGRlMjRmMjI1MThkNTc4YjZlMTlkYiZrZXlubz0wIn0%3D&lang=ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Предохранитель плавкий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ВП1-2 "ВП""; VariantName = "[No Variations]"
+Added Component: Designator=R1(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "4.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "4.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R3(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R5(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R6(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R7(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R8(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "4.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R9(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "4.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R10(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R11(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R12(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R13(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R14(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SLH28xx)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.interpoint.com/product_documents/SLH_Space_DC_DC_Converters.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "DC-DC преобразователь"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "SLH2805D/KR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=U2(FlatPack-10_MSOP-8)
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212S"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MSOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SLH28xx)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.interpoint.com/product_documents/SLH_Space_DC_DC_Converters.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "DC-DC преобразователь"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "SLH2805D/KR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=U5(FlatPack-10_MSOP-8)
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212S"; VariantName = "[No Variations]"
+Added Component: Designator=U6(MSOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Токовый датчик"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "AD8212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(TO-18)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.integral.by/sites/default/files/pdf/2t3117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Биполярный транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "2Т3117А/ПК "ОСМ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,0"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(TO-18)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.integral.by/sites/default/files/pdf/2t3117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Биполярный транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "2Т3117А/ПК "ОСМ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,0"; VariantName = "[No Variations]"
+Added Component: Designator=X1(PLD2-20)
+Add component (AddParameter): Name = "Назначение"; Value = "Header, 20-Pin, Dual row"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PLD2-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU?_7 Pin=R14-1
+Added Pin To Net: NetName=NetU?_2 Pin=R14-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-7
+Added Pin To Net: NetName=NetR?_1 Pin=U4-7
+Added Pin To Net: NetName=NetU?_7 Pin=U6-5
+Added Pin To Net: NetName=NetR?_2 Pin=VT1-3
+Added Pin To Net: NetName=NetR?_1 Pin=VT2-3
+Added Pin To Net: NetName=NetC?_2 Pin=X1-13
+Added Pin To Net: NetName=NetC?_2 Pin=X1-14
+Added Pin To Net: NetName=NetC?_1 Pin=X1-15
+Added Pin To Net: NetName=NetC?_1 Pin=X1-16
+Added Pin To Net: NetName=GND Pin=X1-17
+Added Pin To Net: NetName=GND Pin=X1-18
+Added Pin To Net: NetName=DGND Pin=X1-19
+Added Pin To Net: NetName=DGND Pin=X1-20
+Change Net Name : Old Net Name=DGND New Net Name=NetX1_19
+Change Net Name : Old Net Name=GND New Net Name=NetX1_17
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetX1_15
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetX1_13
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetU4_7
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetU1_7
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetU?_7 New Net Name=NetR14_1
+Added Pin To Net: NetName=+27V_A_main_ch Pin=R1-1
+Added Pin To Net: NetName=+27V_A_main_ch Pin=R2-2
+Added Pin To Net: NetName=+27V_A_main_ch Pin=U2-1
+Added Pin To Net: NetName=+27V_A_main_ch Pin=U2-1
+Added Pin To Net: NetName=+27V_A_main_ch Pin=U3-8
+Added Net: Name=+27V_A_main_ch
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=R8-1
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=R9-2
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=U5-1
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=U5-1
+Added Pin To Net: NetName=+27V_A_reserve_ch Pin=U6-8
+Added Net: Name=+27V_A_reserve_ch
+Added Pin To Net: NetName=Alpha_main_ch Pin=U2-2
+Added Pin To Net: NetName=Alpha_main_ch Pin=U2-2
+Added Pin To Net: NetName=Alpha_main_ch Pin=U2-8
+Added Pin To Net: NetName=Alpha_main_ch Pin=U2-8
+Added Pin To Net: NetName=Alpha_main_ch Pin=U3-2
+Added Pin To Net: NetName=Alpha_main_ch Pin=U3-6
+Added Net: Name=Alpha_main_ch
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U5-2
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U5-2
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U5-8
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U5-8
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U6-2
+Added Pin To Net: NetName=Alpha_reserve_ch Pin=U6-6
+Added Net: Name=Alpha_reserve_ch
+Added Pin To Net: NetName=GND_main_ch Pin=C5-1
+Added Pin To Net: NetName=GND_main_ch Pin=C5-2
+Added Pin To Net: NetName=GND_main_ch Pin=C10-1
+Added Pin To Net: NetName=GND_main_ch Pin=C10-2
+Added Pin To Net: NetName=GND_main_ch Pin=R3-1
+Added Pin To Net: NetName=GND_main_ch Pin=R3-2
+Added Pin To Net: NetName=GND_main_ch Pin=R5-1
+Added Pin To Net: NetName=GND_main_ch Pin=R6-1
+Added Pin To Net: NetName=GND_main_ch Pin=R10-1
+Added Pin To Net: NetName=GND_main_ch Pin=R10-2
+Added Pin To Net: NetName=GND_main_ch Pin=R12-1
+Added Pin To Net: NetName=GND_main_ch Pin=R13-1
+Added Pin To Net: NetName=GND_main_ch Pin=U1-5
+Added Pin To Net: NetName=GND_main_ch Pin=U2-3
+Added Pin To Net: NetName=GND_main_ch Pin=U2-3
+Added Pin To Net: NetName=GND_main_ch Pin=U2-7
+Added Pin To Net: NetName=GND_main_ch Pin=U2-7
+Added Pin To Net: NetName=GND_main_ch Pin=U3-3
+Added Pin To Net: NetName=GND_main_ch Pin=U4-5
+Added Pin To Net: NetName=GND_main_ch Pin=U5-3
+Added Pin To Net: NetName=GND_main_ch Pin=U5-3
+Added Pin To Net: NetName=GND_main_ch Pin=U5-7
+Added Pin To Net: NetName=GND_main_ch Pin=U5-7
+Added Pin To Net: NetName=GND_main_ch Pin=U6-3
+Added Pin To Net: NetName=GND_main_ch Pin=VT1-1
+Added Pin To Net: NetName=GND_main_ch Pin=VT2-1
+Added Pin To Net: NetName=GND_main_ch Pin=X1-3
+Added Pin To Net: NetName=GND_main_ch Pin=X1-4
+Added Pin To Net: NetName=GND_main_ch Pin=X1-7
+Added Pin To Net: NetName=GND_main_ch Pin=X1-8
+Added Net: Name=GND_main_ch
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-4
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-3
+Added Pin To Net: NetName=NetC3_2 Pin=X1-1
+Added Pin To Net: NetName=NetC3_2 Pin=X1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-2
+Added Pin To Net: NetName=NetC6_1 Pin=U4-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C7-1
+Added Pin To Net: NetName=NetC6_2 Pin=R9-1
+Added Pin To Net: NetName=NetC6_2 Pin=U4-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-2
+Added Pin To Net: NetName=NetC8_1 Pin=U4-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-1
+Added Pin To Net: NetName=NetC8_2 Pin=U4-3
+Added Pin To Net: NetName=NetC8_2 Pin=X1-5
+Added Pin To Net: NetName=NetC8_2 Pin=X1-6
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_1 Pin=FU2-1
+Added Net: Name=NetFU1_1
+Added Pin To Net: NetName=NetFU1_2 Pin=FU1-2
+Added Pin To Net: NetName=NetFU1_2 Pin=FU2-2
+Added Pin To Net: NetName=NetFU1_2 Pin=R1-2
+Added Pin To Net: NetName=NetFU1_2 Pin=U2-10
+Added Pin To Net: NetName=NetFU1_2 Pin=U2-10
+Added Pin To Net: NetName=NetFU1_2 Pin=U3-1
+Added Net: Name=NetFU1_2
+Added Pin To Net: NetName=NetFU3_1 Pin=FU3-1
+Added Pin To Net: NetName=NetFU3_1 Pin=FU4-1
+Added Net: Name=NetFU3_1
+Added Pin To Net: NetName=NetFU3_2 Pin=FU3-2
+Added Pin To Net: NetName=NetFU3_2 Pin=FU4-2
+Added Pin To Net: NetName=NetFU3_2 Pin=R8-2
+Added Pin To Net: NetName=NetFU3_2 Pin=U5-10
+Added Pin To Net: NetName=NetFU3_2 Pin=U5-10
+Added Pin To Net: NetName=NetFU3_2 Pin=U6-1
+Added Net: Name=NetFU3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT1-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Pin To Net: NetName=NetR4_2 Pin=X1-10
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=X1-9
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U3-5
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=VT2-2
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-2
+Added Pin To Net: NetName=NetR11_2 Pin=X1-12
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=X1-11
+Added Net: Name=NetR13_2
+Added Class: Name=main_ch
+Added Class: Name=reserve_ch
+Added Class: Name=dv_power_chanel
+Added Member To Class: ClassName=dv_power Member=Component X1 Header 2X20
+Added Room: Name=main_ch
+Added Room: Name=reserve_ch

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetX1_2 Pin=X1-2
+Removed Pin From Net: NetName=GND_main_ch Pin=X2-18
+Added Pin To Net: NetName=NetX1_2 Pin=C1-1
+Added Pin To Net: NetName=NetX1_2 Pin=C2-2
+Added Pin To Net: NetName=NetX1_2 Pin=C3-1
+Added Pin To Net: NetName=NetX1_2 Pin=C4-2
+Added Pin To Net: NetName=NetX1_2 Pin=C5-1
+Added Pin To Net: NetName=GND_main_ch Pin=C6-1
+Added Pin To Net: NetName=GND_main_ch Pin=C7-2
+Added Pin To Net: NetName=GND_main_ch Pin=C8-1
+Added Pin To Net: NetName=GND_main_ch Pin=C9-2
+Added Pin To Net: NetName=GND_main_ch Pin=C10-1
+Added Pin To Net: NetName=NetX1_2 Pin=R3-1
+Added Pin To Net: NetName=NetX1_2 Pin=R5-1
+Added Pin To Net: NetName=GND_main_ch Pin=R10-1
+Added Pin To Net: NetName=GND_main_ch Pin=R12-1
+Added Pin To Net: NetName=NetX1_2 Pin=U1-2
+Added Pin To Net: NetName=NetX1_2 Pin=U1-4
+Added Pin To Net: NetName=NetX1_2 Pin=U1-5
+Added Pin To Net: NetName=NetX1_2 Pin=U2-3
+Added Pin To Net: NetName=NetX1_2 Pin=U2-3
+Added Pin To Net: NetName=NetX1_2 Pin=U3-3
+Added Pin To Net: NetName=GND_main_ch Pin=U4-2
+Added Pin To Net: NetName=GND_main_ch Pin=U4-4
+Added Pin To Net: NetName=GND_main_ch Pin=U4-5
+Added Pin To Net: NetName=GND_main_ch Pin=U5-3
+Added Pin To Net: NetName=GND_main_ch Pin=U5-3
+Added Pin To Net: NetName=GND_main_ch Pin=U6-3
+Added Pin To Net: NetName=NetX1_2 Pin=VT1-1
+Added Pin To Net: NetName=GND_main_ch Pin=VT2-1
+Added Pin To Net: NetName=NetC3_2 Pin=X1-2
+Added Pin To Net: NetName=NetX1_2 Pin=X2-18
+Change Net Name : Old Net Name=GND_main_ch New Net Name=GND_reserve_ch
+Change Net Name : Old Net Name=NetC3_2 New Net Name=+5V_осн
+Change Net Name : Old Net Name=NetX1_2 New Net Name=GND_main_ch
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default

@@ -1,7 +1,0 @@
-Change Component Designator: OldDesignator=X1 NewDesignator=X2
-Added Pin To Net: NetName=+27V1 Pin=X1-1
-Added Pin To Net: NetName=+27V1 Pin=X1-2
-Added Pin To Net: NetName=+27V2 Pin=X1-3
-Added Pin To Net: NetName=+27V2 Pin=X1-4
-Added Member To Class: ClassName=dv_power Member=Component X2 Header 2X20
-Added Room: Name=dv_power

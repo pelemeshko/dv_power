@@ -1,6 +1,0 @@
-Added Component: Designator=X1(PLD2-20)
-Add component (AddParameter): Name = "Назначение"; Value = "Header, 20-Pin, Dual row"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Наименование"; Value = "PLD2-20"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,0"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=dv_power Member=Component X1 (X2) Header 2X20
-Added Room: Name=dv_power

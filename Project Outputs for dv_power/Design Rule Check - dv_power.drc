@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_power\dv_power.PcbDoc
-Date     : 27.04.2021
-Time     : 20:11:21
+Date     : 28.04.2021
+Time     : 16:21:04
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -42,4 +42,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

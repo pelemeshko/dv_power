@@ -140,60 +140,64 @@ GenerateClassCluster=0
 DocumentUniqueId=YAHRLEPV
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for dv_power\ExportIDF\dv_power.brd
+DocumentPath=Project Outputs for dv_power\Design Rule Check - dv_power.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for dv_power\ExportSTEP\dv_power.step
+DocumentPath=Project Outputs for dv_power\ExportIDF\dv_power.brd
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for dv_power\ExportSTEP\dv_power.step
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for dv_power\BOM\dv_power.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalOrganizationName
+Value=НГУ
 
 [Parameter2]
-Name=Т.Контр.
-Value=Селезнев
+Name=GlobalProjectName1
+Value=Схема электрическая
 
 [Parameter3]
-Name=Разработал
-Value=Пелемешко
+Name=GlobalProjectName2
+Value=принципиальная.
 
 [Parameter4]
-Name=Проверил
-Value=Стюф
+Name=GlobalProjectName3
+Value=Модуль питания
 
 [Parameter5]
-Name=Норм.Контр.
-Value=Задорожная
+Name=GlobalProjectNumber
+Value=ЮМП.250.270.042.01
 
 [Parameter6]
 Name=GlobalProjectRevision
 Value=#1.0
 
 [Parameter7]
-Name=GlobalProjectNumber
-Value=ЮМП.250.270.042.01
+Name=Норм.Контр.
+Value=Задорожная
 
 [Parameter8]
-Name=GlobalProjectName3
-Value=Модуль питания
+Name=Проверил
+Value=Стюф
 
 [Parameter9]
-Name=GlobalProjectName2
-Value=принципиальная.
+Name=Разработал
+Value=Пелемешко
 
 [Parameter10]
-Name=GlobalProjectName1
-Value=Схема электрическая
+Name=Т.Контр.
+Value=Селезнев
 
 [Parameter11]
-Name=GlobalOrganizationName
-Value=НГУ
+Name=Утвердил
+Value=Прокопьев
 
 [Configuration1]
 Name=Sources

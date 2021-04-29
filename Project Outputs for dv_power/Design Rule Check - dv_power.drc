@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_power\dv_power.PcbDoc
-Date     : 28.04.2021
-Time     : 16:21:04
+Date     : 29.04.2021
+Time     : 13:39:54
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.5mm) (Max=6mm) (All)
+Processing Rule : Hole Size Constraint (Min=0.5mm) (Max=7mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
@@ -31,7 +31,8 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.2mm) Between Text "U1" (37.77mm,67.513mm) on Top Overlay And Track (33.282mm,68.247mm)(40.725mm,68.247mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mm) (Disabled)(All)
 Rule Violations :0
@@ -40,6 +41,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

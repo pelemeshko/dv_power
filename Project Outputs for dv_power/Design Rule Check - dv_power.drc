@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_power\dv_power.PcbDoc
 Date     : 29.04.2021
-Time     : 13:39:54
+Time     : 17:02:37
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -28,11 +28,14 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
-Rule Violations :0
+   Violation between Minimum Solder Mask Sliver Constraint: (0.063mm < 0.254mm) Between Track (23.579mm,27.446mm)(37.821mm,13.204mm) on Bottom Solder And Track (33.287mm,18.251mm)(40.731mm,18.251mm) on Bottom Solder [Bottom Solder] Mask Sliver [0.063mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.167mm < 0.254mm) Between Track (23.579mm,59.204mm)(37.821mm,73.446mm) on Bottom Solder And Track (33.287mm,68.251mm)(40.731mm,68.251mm) on Bottom Solder [Bottom Solder] Mask Sliver [0.167mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.019mm < 0.254mm) Between Track (90.731mm,18.251mm)(98.175mm,18.251mm) on Bottom Solder And Track (93.579mm,13.204mm)(107.821mm,27.446mm) on Bottom Solder [Bottom Solder] Mask Sliver [0.019mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.123mm < 0.254mm) Between Track (90.731mm,68.251mm)(98.175mm,68.251mm) on Bottom Solder And Track (93.579mm,73.446mm)(107.821mm,59.204mm) on Bottom Solder [Bottom Solder] Mask Sliver [0.123mm]
+Rule Violations :4
 
 Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.2mm) Between Text "U1" (37.77mm,67.513mm) on Top Overlay And Track (33.282mm,68.247mm)(40.725mm,68.247mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (Disabled)(All)
 Rule Violations :0
@@ -41,6 +44,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

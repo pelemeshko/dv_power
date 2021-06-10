@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [dv_power.PcbDoc]
+   Generated File[dv_power.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:31:15 On 10.06.2021

@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for dv_power
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -156,48 +156,48 @@ DocumentPath=Project Outputs for dv_power\BOM\dv_power.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalOrganizationName
-Value=НГУ
+Name=Утвердил
+Value=Прокопьев
 
 [Parameter2]
-Name=GlobalProjectName1
-Value=Схема электрическая
+Name=Т.Контр.
+Value=Селезнев
 
 [Parameter3]
-Name=GlobalProjectName2
-Value=принципиальная.
+Name=Разработал
+Value=Пелемешко
 
 [Parameter4]
-Name=GlobalProjectName3
-Value=Модуль питания
+Name=Проверил
+Value=Стюф
 
 [Parameter5]
-Name=GlobalProjectNumber
-Value=ЮМП.250.270.042.01
+Name=Норм.Контр.
+Value=Задорожная
 
 [Parameter6]
 Name=GlobalProjectRevision
 Value=#1.0
 
 [Parameter7]
-Name=Норм.Контр.
-Value=Задорожная
+Name=GlobalProjectNumber
+Value=ЮМП.250.270.042.01
 
 [Parameter8]
-Name=Проверил
-Value=Стюф
+Name=GlobalProjectName3
+Value=Модуль питания
 
 [Parameter9]
-Name=Разработал
-Value=Пелемешко
+Name=GlobalProjectName2
+Value=принципиальная.
 
 [Parameter10]
-Name=Т.Контр.
-Value=Селезнев
+Name=GlobalProjectName1
+Value=Схема электрическая
 
 [Parameter11]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalOrganizationName
+Value=НГУ
 
 [Configuration1]
 Name=Sources
@@ -210,7 +210,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for dv_power
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -406,7 +406,7 @@ OutputName10=Schematic Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.96|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.96|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=1200|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType11=SimView Print
@@ -831,6 +831,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1227,7 +1257,55 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-FullReplace=1
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Connector.IntLib
+ComponentDesignItemID0=Header 2X20
+ComponentSymbolReference0=Header 2X20
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=DC_DC.IntLib
+ComponentDesignItemID1=SLH28xx
+ComponentSymbolReference1=SLH28xx
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Diod.IntLib
+ComponentDesignItemID2=2D222
+ComponentSymbolReference2=2D222
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Fuse.IntLib
+ComponentDesignItemID3=VP1-2
+ComponentSymbolReference3=VP1-2
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Passive.IntLib
+ComponentDesignItemID4=Capacitor
+ComponentSymbolReference4=Capacitor
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Passive.IntLib
+ComponentDesignItemID5=Capacitor_pol
+ComponentSymbolReference5=Capacitor_pol
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Passive.IntLib
+ComponentDesignItemID6=Resistor
+ComponentSymbolReference6=Resistor
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Transistor.IntLib
+ComponentDesignItemID7=2T3117A
+ComponentSymbolReference7=2T3117A
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
@@ -1240,6 +1318,103 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=Value
+ParameterUpdate6=1
+ParameterName7=Диэлектрик
+ParameterUpdate7=1
+ParameterName8=Назначение
+ParameterUpdate8=1
+ParameterName9=Наименование
+ParameterUpdate9=1
+ParameterName10=Напряжение
+ParameterUpdate10=1
+ParameterName11=Потребление, Вт
+ParameterUpdate11=1
+ParameterName12=Точность
+ParameterUpdate12=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=4116.4-3_offcut
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=PBD-20
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=PBD2-20s
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=PLD2-20
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=PLD2-20R
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=SD87340-20
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=SLH28xx
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=SMD_0402
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=SMD_0603
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=SMD_0805
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=SMD_1206
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=SMD_1206-0805
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SMD_6332
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=SMD_C0402
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SMD_C0603
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=SMD_C0805
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=SMD_C1206
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SMD_C1206-C0805
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SMD_size_B
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=SMD_size_C
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=SMD_size_D
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=TO-18
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=VP1-2
+ModelUpdate22=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

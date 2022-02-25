@@ -1,3 +1,3 @@
-Record=TopLevelDocument|FileName=dv_power.SchDoc
-Record=SheetSymbol|SourceDocument=dv_power.SchDoc|Designator=dv_power_chanel1|SchDesignator=repeat(dv_power_chanel,1,2)|FileName=dv_power_chanel.SchDoc|SymbolType=Normal|RawFileName=dv_power_chanel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=dv_power.SchDoc|Designator=dv_power_chanel2|SchDesignator=repeat(dv_power_chanel,1,2)|FileName=dv_power_chanel.SchDoc|SymbolType=Normal|RawFileName=dv_power_chanel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=dv_power.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=dv_power.SchDoc|Designator=dv_power_chanel1|SchDesignator=repeat(dv_power_chanel,1,2)|FileName=dv_power_chanel.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=dv_power_chanel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=dv_power.SchDoc|Designator=dv_power_chanel2|SchDesignator=repeat(dv_power_chanel,1,2)|FileName=dv_power_chanel.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=dv_power_chanel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,10 +1,14 @@
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [dv_power.PcbDoc]
-   Generated File[dv_power.step]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:27:32 On 03.03.2022
+
+Output: BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [dv_power.PrjPcb]
+   Generated File[dv_power.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:18:23 On 24.06.2021
+Finished Output Generation At 18:27:37 On 03.03.2022

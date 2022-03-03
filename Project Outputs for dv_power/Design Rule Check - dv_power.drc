@@ -1,9 +1,15 @@
 Protel Design System Design Rule Check
-PCB File : F:\YandexDisk2\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_power\dv_power.PcbDoc
-Date     : 08.07.2021
-Time     : 15:10:12
+PCB File : C:\Users\Pelemeshko-OAI\YandexDisk\OAI_NSU\Altium_projects\KVV\dv_power\dv_power.PcbDoc
+Date     : 03.03.2022
+Time     : 18:25:32
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('NetC14_2')),((IsVia and (Not IsStitchingVia)) Or IsPad)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -21,14 +27,14 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.5mm) (Max=7mm) (All)
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=7mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.184mm < 0.254mm) Between Pad X2-1(102.428mm,52.304mm) on Bottom Layer And Pad X2-1(104.178mm,52.304mm) on Multi-Layer [Bottom Solder] Mask Sliver [0.184mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.184mm < 0.254mm) Between Pad X2-1(104.178mm,52.304mm) on Multi-Layer And Pad X2-w(102.428mm,52.304mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.184mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.184mm < 0.254mm) Between Pad X2-10(106.178mm,44.304mm) on Multi-Layer And Pad X2-10(107.928mm,44.304mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.184mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.184mm < 0.254mm) Between Pad X2-11(102.428mm,42.304mm) on Bottom Layer And Pad X2-11(104.178mm,42.304mm) on Multi-Layer [Bottom Solder] Mask Sliver [0.184mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.184mm < 0.254mm) Between Pad X2-12(106.178mm,42.304mm) on Multi-Layer And Pad X2-12(107.928mm,42.304mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.184mm]
@@ -66,4 +72,4 @@ Rule Violations :0
 
 Violations Detected : 24
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

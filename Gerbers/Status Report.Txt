@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [dv_power.PcbDoc]
+   Generated File[dv_power.TXT]
+   Generated File[dv_power.LDP]
+   Generated File[dv_power.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:50:19 On 06.12.2022

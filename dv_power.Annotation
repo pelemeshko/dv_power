@@ -267,16 +267,16 @@ PhysicalDesignator37=X3
 PhysicalDesignatorLocked37=0
 
 [SheetNumberManager]
-SheetNumberOrder=Display Order
+SheetNumberOrder=Sheets Hierarchical Structure - Depth First
 SheetNumberMethod=Increasing
 DocumentName0=dv_power.SchDoc
 UniqueIDPath0=
 SheetNumber0=1
 DocumentName1=dv_power_chanel.SchDoc
-UniqueIDPath1=\OUJWWDCM
+UniqueIDPath1=\1OUJWWDCM
 SheetNumber1=2
 DocumentName2=dv_power_chanel.SchDoc
-UniqueIDPath2=\NRCVKQLI
+UniqueIDPath2=\2OUJWWDCM
 SheetNumber2=3
 
 

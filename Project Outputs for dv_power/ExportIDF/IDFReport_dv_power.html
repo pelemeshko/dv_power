@@ -1,0 +1,233 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 { 
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body { 
+			font-family : segoe ui;
+		}
+
+		td, th {  
+			padding: 0.5em;
+			text-align : left;
+		}
+		th { 
+			background-color : #EEEEEE;
+		
+		}
+		th.column1, td.column1 { 
+			width : 50%; 
+		}
+
+        th.column2, td.column2 {
+            width : 25%;
+        }
+
+		table { 
+			width : 100%; 
+            font-size: 0.9em;
+		}
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 5em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error { 
+			color : red;
+			font-weight : bold;
+		}	
+		tr.onmouseout_odd { 
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+			
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);		
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {	
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}	
+	</script><title>IDF File Translation Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD23\Templates\AD_logo.png
+		"><a href="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports" class="customize"><acronym title="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports">customize</acronym></a><h1>IDF File Translation Report</h1>
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">18.10.2023</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">12:27:56</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:00</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">PCB Filename</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3"><a href="file:///Z:\Devices\%D0%9A%D0%92%D0%92_%D0%91%D0%90%D0%9A%D0%92 %D0%93%D0%BB%D0%BE%D0%BD%D0%B0%D1%81%D1%81-%D0%9A1 22%D0%9B-23%D0%9B\02_%D0%A0%D0%9A%D0%94_%D0%B8_%D0%A2%D0%94\09_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5 %D1%81%D1%85%D0%B5%D0%BC%D1%8B %D0%B8 %D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8\01_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B %D0%B4%D0%BB%D1%8F %D0%98%D0%A1%D0%A1\05_ %D0%94%D0%92_%D0%9C%D0%9F\dv_power.PcbDoc" class="file"><acronym title="Z:\Devices\КВВ_БАКВ Глонасс-К1 22Л-23Л\02_РКД_и_ТД\09_Электрические схемы и перечни\01_Проекты для ИСС\05_ ДВ_МП\dv_power.PcbDoc">Z:\Devices\КВВ_БАКВ Глонасс-К1 22Л-23Л\02_РКД_и_ТД\09_Электрические схемы и перечни\01_Проекты для ИСС\05_ ДВ_МП\dv_power.PcbDoc</acronym></a></td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">IDF Board Filename</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">Z:\Devices\КВВ_БАКВ Глонасс-К1 22Л-23Л\02_РКД_и_ТД\09_Электрические схемы и перечни\01_Проекты для ИСС\05_ ДВ_МП\Project Outputs for dv_power\ExportIDF\dv_power.brd</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">IDF Library Filename</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">Z:\Devices\КВВ_БАКВ Глонасс-К1 22Л-23Л\02_РКД_и_ТД\09_Электрические схемы и перечни\01_Проекты для ИСС\05_ ДВ_МП\Project Outputs for dv_power\ExportIDF\dv_power.pro</td>
+</tr>
+</table><a name="ID4OEHQTRCCXDPEN1TKQZ1MT3QDC2BLHZAPVLWMXHIMWQNXTELQGNM"><table>
+<tr>
+<th style="text-align : left" colspan="0" class="">Errors</th>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDHHGBJ4EEXYAMMM4R2AFLNZID2H1EIR425X0BX0GUPNKLBUVMFPXM"><table>
+<tr>
+<th style="text-align : left" colspan="0" class="">Warnings</th>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDJUAFS5XXDPW1LBQTKCCUXFE2LD4GPWNKCSTL0WNNADZDOKFVNQKJ"><table>
+<tr>
+<th style="text-align : left" colspan="0" class="">Save Warnings</th>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDXBVQ33QAECSXMFWIOBBJV4NPSGKL1B5WBV5M1HMJT4T3LM4L531J"><table>
+<tr>
+<th style="text-align : left" colspan="0" class="">Save Errors</th>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDAACSUTEZ4UUUPNDRE5U1K04D4O2V2YAH0X0ONOJL4DGPXX2ITCAN"><table>
+<tr>
+<th style="text-align : left" colspan="0" class="">Export Warnings</th>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDQBZIT35WMYFQMN0S4OFGT33BINI5FV2KJJGCRZKP0KQGYD1TJNVH"><table>
+<tr>
+<th style="text-align : left" colspan="0" class="">Export Errors</th>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>
